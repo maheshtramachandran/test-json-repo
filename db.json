@@ -3,12 +3,7 @@
     {
       "id": "1",
       "name": "Fluffy",
-      "age": 3,
-      "description": "Fluffy is a friendly and playful kitten",
-      "type": "cat",
-      "gender": "female",
-      "adoption_fee": 150,
-      "image": "https://images.unsplash.com/photo-1548366086-7f1b76106622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=376&q=80"
+      "age": 3
     }
   ]
 }
